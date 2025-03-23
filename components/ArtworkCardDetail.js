@@ -7,7 +7,7 @@ import { favouritesAtom } from "@/store";
 import { useEffect, useState } from "react";
 //import { set } from "react-hook-form";
 import { addToFavourites, removeFromFavourites } from "@/lib/userData";
-import { set } from "react-hook-form";
+//import { set } from "react-hook-form";
 
 //const fetcher = (url) => fetch(url).then((res) => res.json());
 

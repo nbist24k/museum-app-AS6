@@ -17,7 +17,7 @@ export default function Favourites() {
         </Col>
       </Row>
 
-      {favouritesList === 0 ? (
+      {favouritesList.length === 0 ? (
         <Row>
           <Col>
             <Alert variant="info">
