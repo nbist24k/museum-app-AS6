@@ -1,0 +1,12 @@
+/* Global styles */
+html {
+  height: 100%;
+}
+body {
+  min-height: 100vh;
+}
+footer {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #bbb;
+}

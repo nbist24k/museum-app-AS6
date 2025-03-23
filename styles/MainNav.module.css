@@ -1,0 +1,14 @@
+.navDropdownItem:hover {
+  background-color: #0dcaf0 !important;
+  color: white !important;
+}
+
+/* NavLink hover styling */
+.navLink:hover {
+  color: white !important; /* White text on hover */
+}
+
+/* Style for the dropdown toggle button when hovering */
+.navDropdownTitle:hover :global(.dropdown-toggle) {
+  color: white !important;
+}
