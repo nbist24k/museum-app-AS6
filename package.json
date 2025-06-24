@@ -17,8 +17,7 @@
     "react-bootstrap": "^2.10.9",
     "react-dom": "^19.0.0",
     "react-hook-form": "^7.54.2",
-    "swr": "^2.3.3",
-    "brace-expansion": ">=2.0.2"
+    "swr": "^2.3.3"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
